@@ -423,7 +423,7 @@ body {
 @media (min-width:1025px) and (max-width: 1566px) {
     .skills img,
     .projects .nextjs {
-        display: none; /* Hide extra graphics */
+        display: none;
     }
       .navbar {
         padding: 20px;
@@ -507,7 +507,7 @@ body {
 
     .skills img,
     .projects .nextjs {
-        display: none; /* Hide extra graphics */
+        display: none; 
     }
 
     .contact-text h1 {
@@ -588,7 +588,7 @@ body {
         display: flex;
         flex-direction: column;
         align-items: center;
-        height: auto; /* Adjust height for stacked layout */
+        height: auto; 
         padding: 20px 10px;
         text-align: center;
     }
@@ -603,9 +603,9 @@ body {
     }
 
     .social ul {
-        gap: 30px; /* Reduce gap between social links */
+        gap: 30px; 
         flex-direction: row;
-        flex-wrap: wrap; /* Wrap if needed */
+        flex-wrap: wrap; 
         justify-content: center;
     }
 
